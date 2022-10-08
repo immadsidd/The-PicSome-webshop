@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/The-PicSome-webshop/static/css/main.736ef1f6.css",
+    "main.js": "/The-PicSome-webshop/static/js/main.7f7a5ac5.js",
+    "index.html": "/The-PicSome-webshop/index.html",
+    "main.736ef1f6.css.map": "/The-PicSome-webshop/static/css/main.736ef1f6.css.map",
+    "main.7f7a5ac5.js.map": "/The-PicSome-webshop/static/js/main.7f7a5ac5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.736ef1f6.css",
+    "static/js/main.7f7a5ac5.js"
+  ]
+}
